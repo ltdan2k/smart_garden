@@ -1,0 +1,188 @@
+
+          body {
+		  text-align:center;
+		
+		  background-size: contain;
+		  background-image: url('vn_garden.jpg');
+		  background-repeat: no-repeat;
+		  background-size: cover;
+		  
+		  color:rgba(0, 255, 21, 0.671);
+		  font-family: Arial, Helvetica, sans-serif;
+		  }
+          input {
+            height:25px; 
+            width:270px;
+            font-size:20px;
+            margin: 10px auto;
+			border-radius:5px;
+          }
+		  font {
+			color: rgb(234, 240, 241);
+		  }
+		  
+		  table
+		  {
+			-moz-border-radius:10px;
+			-webkit-border-radius:10px;
+			border-radius:10px
+	
+		  }
+          #content {
+            border: red solid 10px; 
+            padding:5px;  
+            height:auto; 
+            width:auto; 
+            border-radius:20px;
+            margin: 0 auto;
+			color: rgb(0, 255, 13);
+			background: #00ff99;
+
+          }         
+		  .cssnhietdo{
+	
+              outline: none;
+              margin: 15px 5px;
+              width: 80px;
+              height: 80px;
+              border-radius: 50%;
+              -moz-border-radius: 50%;
+              -webkit-border-radius: 50%;
+              color:black;
+              font-size:30px;
+              font-weight: bold;
+			  border: solid 5px #ffff66;
+              background: #66ffff;
+          }	  
+		  
+		  .cssdoam{
+              outline: none;
+              margin: 15px 5px;
+              width: 80px;
+              height: 80px;
+              border-radius: 50%;
+              -moz-border-radius: 50%;
+              -webkit-border-radius: 50%;
+              color:black;
+              font-size:30px;
+              font-weight: bold;
+			  border: solid 5px #ffff66;
+              background: #66ffff;
+          }
+		  
+		
+		  
+		  .cssden{
+              outline: none;
+              margin: 15px 5px;
+              width: 80px;
+              height: 80px;
+              border-radius: 50%;
+              -moz-border-radius: 50%;
+              -webkit-border-radius: 50%;
+              color:white;
+              font-size:20px;
+              font-weight: bold;
+			   border: solid 2px #23C48E;
+              background: #23C48E;
+			  border: solid 5px #33ff33;
+              background: #ff0000;
+			  
+          }
+		  
+		  .cssquat{
+              outline: none;
+              margin: 15px 5px;
+              width: 80px;
+              height: 80px;
+              border-radius: 50%;
+              -moz-border-radius: 50%;
+              -webkit-border-radius: 50%;
+              color:white;
+              font-size:20px;
+              font-weight: bold;
+			   border: solid 2px #23C48E;
+              background: #23C48E;
+			  border: solid 5px #33ff33;
+              background: #ff0000;
+          }     
+          .button_quaylai{
+            height:30px; 
+            width:240px; 
+            margin:10px 0;
+            background-color:#3C89BC;
+            border-radius:15px;
+            outline:none;
+            color:white;
+            font-size:20px;
+            font-weight: bold;
+			border: solid 2px #ffff66;
+			
+          }	  
+		  .button {
+			  display: inline-block;
+			  padding: 10px 25px;
+			  font-size: 40px;
+			  cursor: pointer;
+			  text-align: center;
+			  text-decoration: none;
+			  outline: none;
+			  color: back;
+			  background-color: #ffff00;
+			  border: none;
+			  border-radius: 20px;
+			  box-shadow: 0 9px #999;
+			  height:70px; 
+			  width:150px;
+			  border: solid 5px red;
+			}
+
+			.button:hover {background-color: #33ff33}
+
+			.button:active {
+			  background-color: #ff0000;
+			  box-shadow: 0 5px #666;
+			  transform: translateY(4px);
+			}
+			
+			tr
+			{
+			  background-color:rgba(245, 47, 21, 0.856);
+			  color:white;
+			  -moz-border-radius:10px;
+				-webkit-border-radius:10px;
+				border-radius:10px
+			}
+			th		
+			{
+			 
+			  -moz-border-radius:10px;
+				-webkit-border-radius:10px;
+				border-radius:10px
+				border: solid 5px Blue;
+			}
+			td		
+			{
+			 
+			  -moz-border-radius:10px;
+				-webkit-border-radius:10px;
+				border-radius:10px
+				border: solid 5px Blue;
+			}
+			.field-icon {
+			  float: right;
+			  margin-left: -25px;
+			  margin-top: -25px;
+			  position: relative;
+			  z-index: 2;
+			}
+
+			.container{
+			  padding-top:50px;
+			  margin: auto;
+			}
+			
+			
+			
+			
+     
